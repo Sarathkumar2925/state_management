@@ -1,0 +1,4 @@
+enum AvailableColors {
+  one,
+  two,
+}

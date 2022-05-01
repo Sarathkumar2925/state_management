@@ -1,0 +1,17 @@
+{
+    "errorLens.fontFamily": "JetBrains Mono",
+    "errorLens.fontSize": "15",
+    "errorLens.gutterIconsEnabled": true,
+    "errorLens.light": {
+    
+    },
+    "errorLens.messageEnabled": true,
+    "errorLens.statusBarIconsEnabled": true,
+    "errorLens.borderRadius": "5px",
+    "errorLens.enabledDiagnosticLevels": [
+        "error",
+        "warning",
+        "info",
+        "hint"
+    ]
+}
